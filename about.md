@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Father, software engineer, occasional and lazy blogger. Currently live in Kraków, Poland.
 
-### More Information
+### Intention
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+The intention of this blog is to host my personal thoughts, feelings, and opinions. I will write about various topics such as software development and management practices, recruiting, testing, living and more.
